@@ -1,6 +1,6 @@
 /*assignemt: using this keyword output should be in below sequence
  * three parameterized
- * default 
+ * default
  * one parameterized
  * two parameterized
  */
@@ -14,8 +14,8 @@ public class Constructor_Day3 {
 	}
 	public Constructor_Day3(int a) {
 		this();
-		
-		
+
+
 		System.out.println("one parameterized constructor");
 	}
 
@@ -25,7 +25,7 @@ public class Constructor_Day3 {
 	}
 
 	public Constructor_Day3(int a, int b, int c) {
-		
+
 		System.out.println("three parameterized constructor");
 	}
 	public static void main(String[] args) {
@@ -33,8 +33,8 @@ public class Constructor_Day3 {
 	}
 
 }
-	
-	
-	
+
+
+
 
 

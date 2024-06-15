@@ -36,9 +36,9 @@ public class Day2 {
 		int subResult= Arth.sub(sumResult1,2);
 		int multiResult= Arth.multi(subResult,2);
 		Arth.div(multiResult,2);
-		
+
 	}
-	
-	
+
+
 
 }
